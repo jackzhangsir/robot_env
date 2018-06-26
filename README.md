@@ -39,3 +39,7 @@
 ###  安装调度工具
 * pip install schedule
 * pip --trusted-host pypi.doubanio.com install -U schedule -i "https://pypi.doubanio.com/simple/"
+
+###  软件工具下载
+* 链接: https://pan.baidu.com/s/19KYfbjlncKT8QUis8Qa3HQ 
+* 密码: uxag
