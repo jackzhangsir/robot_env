@@ -36,6 +36,11 @@
 
 * pip --trusted-host pypi.doubanio.com install -U pillow -i "https://pypi.doubanio.com/simple/"
 
+###  安装词云图工具
+
+* pip install wordcloud
+* pip --trusted-host pypi.doubanio.com install -U wordcloud -i "https://pypi.doubanio.com/simple/"
+
 ###  安装调度工具
 * pip install schedule
 * pip --trusted-host pypi.doubanio.com install -U schedule -i "https://pypi.doubanio.com/simple/"
