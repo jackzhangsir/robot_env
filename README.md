@@ -18,7 +18,8 @@
 * https://pypi.python.org/pypi/pip
 * python setup.py install
 * sudo python setup.py install
-* 验证pip -V或者pip list或者pip -help
+* 验证pip -V或者pip list或者pip --help或者pip -h
+* python -m pip install --trusted-host pypi.doubanio.com --upgrade pip -i "https://pypi.doubanio.com/simple/"
 
 ###  安装证书相关工具
 
